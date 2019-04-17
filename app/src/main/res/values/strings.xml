@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stand Up!</string>
+    <string name="alarmToogle">ToggleButton</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="activada">Alarma activada</string>
+    <string name="desactivada">Alarma desactivada</string>
+</resources>
