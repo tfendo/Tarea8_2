@@ -5,4 +5,7 @@
     <string name="alarm_on">Alarm On</string>
     <string name="activada">Alarma activada</string>
     <string name="desactivada">Alarma desactivada</string>
+    <string name="titulo_notificacion">Stand Up Alert</string>
+    <string name="texto_notificacion">Deberías levantarte y dar un par de paseos</string>
+    <string name="descripcion_canal">Notifica cada 15 para que te levantes y andes</string>
 </resources>
